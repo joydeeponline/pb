@@ -1,3 +1,4 @@
 # Prabhat Floor Android App
 
-WebView wrapper for https://www.prabhatfloor.com/ with GitHub Actions APK build workflow.
+Package ID: com.prabhatfloor.webapp
+This package can be installed alongside the Goyat app without conflicts.

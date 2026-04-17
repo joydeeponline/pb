@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.goyat.tmsandroid"
+    namespace = "com.prabhatfloor.webapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.goyat.tmsandroid"
+        applicationId = "com.prabhatfloor.webapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
