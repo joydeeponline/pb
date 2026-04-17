@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Goyat TMS Android"
+rootProject.name = "Prabhat Floor Solutions Android"
 include(":app")
